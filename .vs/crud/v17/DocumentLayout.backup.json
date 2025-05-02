@@ -1,0 +1,372 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\crud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\crud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|c:\\users\\acer\\desktop\\c#\\crud\\crud\\crud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B53FEE9F-144E-40B4-A455-66262DB8F91E}|crud\\crud.csproj|solutionrelative:crud\\crud.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Program.cs",
+              "RelativeDocumentMoniker": "crud\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Program.cs",
+              "RelativeToolTip": "crud\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:06:52.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "crud\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "crud\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAiwCoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:37:20.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "crud\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "crud\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:37:56.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "crud\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "crud\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:16:03.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\appsettings.json",
+              "RelativeDocumentMoniker": "crud\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\appsettings.json",
+              "RelativeToolTip": "crud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T10:31:51.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "crud\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "crud\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:15:28.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "crud\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Model\\Category.cs",
+              "RelativeToolTip": "crud\\Model\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:15:44.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "crud\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "crud\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:35:10.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "crud\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "crud\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:33:29.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "crud\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "crud\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:15:47.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "crud\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "crud\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:15:30.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "crud\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "crud\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:15:11.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Model\\User.cs",
+              "RelativeDocumentMoniker": "crud\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Model\\User.cs",
+              "RelativeToolTip": "crud\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:33:44.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "crud.csproj",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\crud\\crud\\crud.csproj",
+              "RelativeDocumentMoniker": "crud\\crud.csproj",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\crud\\crud\\crud.csproj",
+              "RelativeToolTip": "crud\\crud.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-02T10:31:37.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\UserDto.cs",
+              "RelativeDocumentMoniker": "crud\\UserDto.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\UserDto.cs",
+              "RelativeToolTip": "crud\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:11:29.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "crud\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Model\\Order.cs",
+              "RelativeToolTip": "crud\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:15:14.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "crud\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Model\\Product.cs",
+              "RelativeToolTip": "crud\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:14:47.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "crud.http",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\crud.http",
+              "RelativeDocumentMoniker": "crud\\crud.http",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\crud.http",
+              "RelativeToolTip": "crud\\crud.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-02T11:39:28.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "crud\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\appsettings.Development.json",
+              "RelativeToolTip": "crud\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-02T10:31:56.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "crud\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "crud\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:40:21.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "crud",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\crud\\crud\\crud.csproj",
+              "RelativeDocumentMoniker": "crud\\crud.csproj",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\crud\\crud\\crud.csproj",
+              "RelativeToolTip": "crud\\crud.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-30T09:07:13.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "crud\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\CRUD\\crud\\WeatherForecast.cs",
+              "RelativeToolTip": "crud\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T09:06:55.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
